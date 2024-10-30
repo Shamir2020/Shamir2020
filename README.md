@@ -3,7 +3,7 @@
 
 - 👨‍💻My best projects are private which can be viewed at [https://shamirroy.netlify.app/](https://shamirroy.netlify.app/)
 
-- 📫 How to reach me **shamirroy2020@gmail.com**
+- 📫 Email me at **shamirroy2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
