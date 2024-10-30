@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shamir Roy</h1>
 <h3 align="center">I'm a Passionate Programmer I'm a passionate programmer with expertise spanning Full Stack Web Development, App Development, REST API Development, AI, ML, Cybersecurity, Robotics, Arduino & beyond. Most of my best projects repositories are private. Kindly go through my portfolio website to see them.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamir2020&label=Profile%20views&color=0e75b6&style=flat" alt="shamir2020" /> </p>
-
-- 👨‍💻Some of my projects are available at [https://shamirroy.netlify.app/](https://shamirroy.netlify.app/)
+- 👨‍💻My best projects are private which can be viewed at [https://shamirroy.netlify.app/](https://shamirroy.netlify.app/)
 
 - 📫 How to reach me **shamirroy49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shamir-roy-83289627a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamir-roy-83289627a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/introvert.boy02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/introvert.boy02/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/alone.boy49000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alone.boy49000/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@programmingtube6961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@programmingtube6961" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shamir-roy-83289627a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamir-roy-83289627a" height="30" width="40" /></a>
+<a href="https://fb.com/introvert.boy02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="introvert.boy02" height="30" width="40" /></a>
+<a href="https://instagram.com/alone.boy49000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alone.boy49000/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/programmingtube6961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programmingtube6961" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
