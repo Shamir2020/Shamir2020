@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamir Roy</h1>
-<h3 align="center">I'm a passionate programmer with expertise spanning Full Stack Web Development, App Development, REST API Development, AI, ML, Cybersecurity, Robotics, Arduino & beyond. Most of my best projects repositories are private. Kindly go through my portfolio website to see them.</h3>
+<h3 align="center">I'm a passionate programmer with expertise spanning Full Stack Web Development, App Development, REST API Development, AI, ML, Cybersecurity, Robotics, Arduino & beyond. Most of my best projects repositories are private. Kindly go through my portfolio website to see some of their previews.</h3>
 
-- 👨‍💻My best projects are private which can be viewed at [https://shamirroy.netlify.app/](https://shamirroy.netlify.app/)
+- 👨‍💻My best projects are private and some of them can be viewed at [https://shamirroy.netlify.app/](https://shamirroy.netlify.app/)
 
 - 📫 Email me at **shamirroy2020@gmail.com**
 
