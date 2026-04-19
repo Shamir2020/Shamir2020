@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shamir Roy</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Mobile App Developer | AI & ML Enthusiast
+Full Stack Developer | Mobile App Developer | AI & ML Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable applications, intelligent systems, and innovative solutions across web, mobile, AI, cybersecurity, and robotics.
+I build scalable web applications, mobile apps, and intelligent systems.  
+Focused on solving real-world problems using modern technologies.
 </p>
 
 ---
@@ -13,53 +14,65 @@ Passionate about building scalable applications, intelligent systems, and innova
 ### 🌐 Portfolio
 <p align="center">
   <a href="https://shamirroy.netlify.app/" target="_blank">
-    🔗 Visit My Portfolio
+    Visit My Portfolio
   </a>
 </p>
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact
 <p align="center">
-  ✉️ <b>shamirroy2020@gmail.com</b>
+  shamirroy2020@gmail.com
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/shamir-roy-83289627a" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://linkedin.com/in/shamir-roy-83289627a">
+<img src="https://skillicons.dev/icons?i=linkedin" height="32" />
 </a>
-<a href="https://fb.com/introvert.boy02" target="blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40" />
+<a href="https://fb.com/introvert.boy02">
+<img src="https://skillicons.dev/icons?i=facebook" height="32" />
 </a>
-<a href="https://instagram.com/alone.boy49000/" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+<a href="https://instagram.com/alone.boy49000/">
+<img src="https://skillicons.dev/icons?i=instagram" height="32" />
 </a>
-<a href="https://www.youtube.com/c/programmingtube6961" target="blank">
-<img src="https://skillicons.dev/icons?i=youtube" height="40" />
+<a href="https://www.youtube.com/c/programmingtube6961">
+<img src="https://skillicons.dev/icons?i=youtube" height="32" />
 </a>
 </p>
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=android,arduino,bootstrap,c,cs,css,dart,django,docker,express,firebase,flutter,git,html,java,js,linux,mongodb,mysql,nextjs,nodejs,opencv,postgres,py,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,django,flutter,dart,firebase,docker,git,linux,java,c,cs,opencv" />
 </p>
 
 ---
 
-### 🧠 Currently Exploring
-- 🔹 Advanced AI & Machine Learning
-- 🔹 Cloud Computing & DevOps
-- 🔹 Scalable System Design
+### What I Work On
+
+- Full Stack Web Development (Next.js, Node.js, Django)  
+- Mobile App Development (Flutter)  
+- AI & Machine Learning  
+- Backend Systems & APIs  
+- Cybersecurity & System Design  
+- Robotics & Arduino  
 
 ---
 
-### 📊 GitHub Stats
+### Currently Exploring
+
+- Advanced AI & Machine Learning  
+- Cloud Computing & DevOps  
+- Scalable System Design  
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shamir2020&show_icons=true&theme=tokyonight" />
@@ -71,5 +84,6 @@ Passionate about building scalable applications, intelligent systems, and innova
 
 ---
 
-### ⚡ Fun Fact
-> Most of my best projects are private — but you can explore previews on my portfolio 👨‍💻
+### Note
+
+Most of my best projects are private — previews are available on my portfolio.
